@@ -1,8 +1,8 @@
 ## Hello 👋 My name is Andrei.
 ## Welcome to my Github Profile!
-### 🚀 About me
+## 🚀 About me
  You can reach me by Telegram: [https://t.me/AndreiJava](https://t.me/AndreiJava) Email: An.S-1@yandex.ru
-### 🛠️ Languages and Tools
+## 🛠️ Languages and Tools
 🔵 Java, Spring, Maven, JDBC, Hibernate, Junit
 🔵 PosgreSQL, Git, Docker, IDEA, Postman
 
