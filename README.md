@@ -3,8 +3,8 @@
 ## 🚀 About me
  You can reach me by Telegram: [https://t.me/AndreiJava](https://t.me/AndreiJava) Email: An.S-1@yandex.ru
 ## 🛠️ Languages and Tools
-🔵 Java, Spring, Maven, JDBC, Hibernate, Junit
-🔵 PosgreSQL, Git, Docker, IDEA, Postman
+##### 🔵 Java, Spring, Maven, JDBC, Hibernate, Junit
+##### PosgreSQL, Git, Docker, IDEA, Postman
 
 
 
