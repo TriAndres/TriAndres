@@ -1,12 +1,12 @@
-## Здравствуйте 👋 Меня зовут Андрей.
+## Hello 👋 My name is Andrei.
+### Welcome to my Github Profile!
+### 🚀 About me
+### You can reach me by Telegram: [https://t.me/AndreiJava](https://t.me/AndreiJava) Email: An.S-1@yandex.ru
+### 🛠️ Languages and Tools
+### 🔵 Java, Spring, Maven, JDBC, Hibernate, Junit,
+### 🟢 PosgreSQL, Git, Docker, IDEA, Postman
 
-### JAVA изучаю несколько лет. В Яндекс-Практикуме, прошёл обучение на Java-разработчика (2023 - 2024 году).
-### В настоящий момент оптимизирую знания и активно ищу работы в IT. 
 
-### 👯 Интересно работать и развиваться в команде профессионалов
-### 📫 Вы можете связаться со мной: Telegram: [https://t.me/AndreiJava](https://t.me/AndreiJava) Почта: An.S-1@yandex.ru
-
-### Технологии
 
 <p align="left">
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
